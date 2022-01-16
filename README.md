@@ -1,3 +1,9 @@
+Added a script with german language API
+
+Original project description below:
+
+---
+
 # word-lookup 📚
 
 ![](https://github.com/4lgn/word-lookup/raw/master/word-lookup.gif)
